@@ -10,7 +10,7 @@ Here's a peek into my toolkit:
   - Python 🐍
   - HTML5 & CSS3 🎨
   - JavaScript (and React) 🌐
-  - Node.js 🚀
+  - Node.js ✳️
   - Rust 🦀
   - C 🔧
   - C++ 🚀
@@ -20,16 +20,16 @@ Here's a peek into my toolkit:
   - Java ☕
   
 - **Platforms & Tools**:
-  - macOS 🍏
+  - macOS 🍎
   - Docker 🐳
-  - Linode 🌐
+  - Linode 🟢
 
 ## 🚀 Projects & Highlights
-- **[Project Alexandria](#)**: huge library.
+- **[Project Alexandria](#Project-Alexandria)**: huge library of ideas out of this world.
 
 ## 🏔️ When I'm Not Coding
-- **Mountaineering**: Scaling peaks and conquering trails. 🧗‍♂️
-- **Outdoor Adventures**: Exploring nature and embracing new challenges.
+- **Mountaineering**: Scaling peaks and conquering trails. 🧌
+- **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
 
 ## 📫 Let's Connect!
 Feel free to reach out:
