@@ -1,6 +1,9 @@
-# Welcome to my waters of the digital ocean! 👾
+# Welcome to my waters of the digital ocean! 🌊
 
 **`Digital Nomad (Bit Tweaker/Crop Guard/Time Traveller)`**
+
+> badges linking to social media
+---
 
 ## 💻 What I Do
 I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality. When I'm not coding, you'll find me scaling mountains and enjoying the great outdoors. 🌄🛶🥾
