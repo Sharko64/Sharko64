@@ -38,10 +38,10 @@ Feel free to reach out:
 - **LinkedIn**: [Your LinkedIn Profile](#)
 - **Discord**: [@YourDiscordHandle](#)
 
-## 🎉 Fun Fact
+## 💡 Fun Fact
 I once hiked a 6962m peak just to catch the sunrise. It was worth every step!
 
-Thanks for stopping by! 🚀👋
+Thanks for stopping by! 🚀
 
 ---
 
