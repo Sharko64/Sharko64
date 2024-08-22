@@ -1,9 +1,9 @@
-# Welcome to my corner of the digital world! 🚀
+# Welcome to my corner of the digital world! 👾
 
-## 🧑‍💻 What I Do
+## 💻 What I Do
 I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality. When I'm not coding, you'll find me scaling mountains and enjoying the great outdoors. 🌄
 
-## 🌟 Skills & Technologies
+## 🍳 Skills
 Here's a peek into my toolkit:
 
 - **Programming Languages**:
