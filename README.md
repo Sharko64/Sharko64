@@ -1,7 +1,5 @@
 # Welcome to my corner of the digital world! 👾
 
----
-
 ## 💻 What I Do
 I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality. When I'm not coding, you'll find me scaling mountains and enjoying the great outdoors. 🌄🛶🥾
 
@@ -42,8 +40,6 @@ Feel free to reach out:
 
 ## 🎉 Fun Fact
 I once hiked a 6962m peak just to catch the sunrise. It was worth every step!
-
----
 
 Thanks for stopping by! 🚀👋
 
