@@ -33,6 +33,8 @@ Here's a peek into my toolkit:
 ## 🏗️ Constructions
 - **[Project Alexandria](#Project-Alexandria)**: huge library of ideas out of this world.
 
+- **[Homegrow](#Homegrow)**: the macOS package manager
+
 ## 🏔️ When I'm Not Coding
 - **Mountaineering**: Scaling peaks and conquering trails. 🧌
 - **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
