@@ -35,6 +35,8 @@ Here's a peek into my toolkit:
 
 - **[Homegrow](#Homegrow)**: the macOS package manager
 
+- **[Blaze-Editor](#Blaze-Editor)**: Blazingly fast code editor written in rust
+
 ## 🏔️ When I'm Not Coding
 - **Mountaineering**: Scaling peaks and conquering trails. 🧌
 - **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
