@@ -3,10 +3,22 @@
 **`Digital Nomad (Bit Tweaker/Crop Guard/Time Traveller)`**
 
 > badges linking to social media
+
+I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality.
+
 ---
 
-## 💻 What I Do
-I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality. When I'm not coding, you'll find me scaling mountains and enjoying the great outdoors. 🌄🛶🥾
+## 🏗️ Constructions
+- **[Project Alexandria](#Project-Alexandria)**: huge library of ideas out of this world.
+
+- **[Homegrow](#Homegrow)**: the macOS package manager
+
+- **[Blaze-Editor](#Blaze-Editor)**: Blazingly fast code editor written in rust
+
+## 🏔️ When I'm Not Coding
+- **Farming**: Milking goats cooped up in the mountains. 🐐
+- **Mountaineering**: Scaling peaks and conquering trails. 🧌
+- **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
 
 ## 🍳 Skills
 Here's a peek into my toolkit:
@@ -32,17 +44,6 @@ Here's a peek into my toolkit:
   - Docker ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   - Linode ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 
-## 🏗️ Constructions
-- **[Project Alexandria](#Project-Alexandria)**: huge library of ideas out of this world.
-
-- **[Homegrow](#Homegrow)**: the macOS package manager
-
-- **[Blaze-Editor](#Blaze-Editor)**: Blazingly fast code editor written in rust
-
-## 🏔️ When I'm Not Coding
-- **Mountaineering**: Scaling peaks and conquering trails. 🧌
-- **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
-
 ## 📫 Let's Connect!
 Feel free to reach out:
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
@@ -50,7 +51,7 @@ Feel free to reach out:
 - **Discord**: [@YourDiscordHandle](#)
 
 ## 💡 Fun Fact
-I once hiked a 6962m peak just to catch the sunrise. It was worth every step and my heart rate is almost back at normal!
+I once hiked a 6962m peak just to catch the sunrise. It was worth every step and my heart rate is almost back at normal, but still no breath left!
 
 Thanks for stopping by! 🚀
 
