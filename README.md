@@ -16,6 +16,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 - **[Homegrow](https://github.com/Sharko64/Homegrow)**: the macOS package manager
 - **[Blaze-Editor](https://github.com/Sharko64/Blaze-Editor)**: Blazingly fast code editor written in rust
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🏔️ When I'm Not Coding
 - **Farming**: Milking goats cooped up in the mountains. 🐐
 - **Mountaineering**: Scaling peaks and conquering trails. 🧌
