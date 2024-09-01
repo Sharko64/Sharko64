@@ -1,5 +1,5 @@
-# Welcome to the Tide of Tomorrow 🌊
-### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future 🕊️
+# Welcome to the Tide of Tomorrow 🌊🏄‍♂️🦈
+### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future 🦾🕊️💻
 
 **`Digital Nomad && Time Traveller`**
 
