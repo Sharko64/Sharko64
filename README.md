@@ -1,13 +1,15 @@
 # Welcome to the Tide of Tomorrow 🌊🏄‍♂️🦈
 ### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future 🦾🕊️💻
 
-**`Digital Nomad && Time Traveller`**
+**`Digital-Nomad && Time-Traveller && In-Real-Life-Terraformer`**
+
+![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
 
 I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality and beyond. My only enemies are lack of sleep and creativity congestions. There was that fingernail-biting monster story about — how were they called again? — Ahhh yes... bugs. Stay ready!
 
 > Whoever fights monsters should see to it that in the process he does not become a monster.
-> And if you gaze long enough into an abyss, the abyss will gaze back into you.
-> — Friedrich Nietzsche
+> And if you gaze long enough into an abyss, the abyss will gaze back into you.[^1]
+[^1]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)
 
 ## 🏗️ Constructions
 - **[Project Alexandria](https://github.com/Sharko64/Project-Alexandria)**: huge library of ideas out of this world.
@@ -18,6 +20,9 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 - **Farming**: Milking goats cooped up in the mountains. 🐐
 - **Mountaineering**: Scaling peaks and conquering trails. 🧌
 - **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
+
+> Your worst sin is that you have destroyed and betrayed yourself for nothing.[^2]
+[^2]: Dostoevsky, F. (2003). *Crime and punishment.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/2554)
 
 ## 🍳 Skills
 ### Operating Systems
@@ -89,13 +94,10 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 - **Discord**: [@YourDiscordHandle](#)
 
 ## 💡 Fun Fact
-I once hiked a 6962m peak just to catch the sunrise. It was worth every step and my heart rate is almost back at normal, but still no breath left!
+I once hiked a 6962m peak just to catch the sunrise. <br>
+It was worth every step and my heart rate is almost back at normal, but still no breath left!  
 
-> To live is to suffer, to survive is to find some meaning in the suffering.
-> — Friedrich Nietzsche
+> To live is to suffer, to survive is to find some meaning in the suffering.[^3]
+[^3]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)  
 
-Thanks for stopping by! 🚀
-
----
-
-Made with ❤️ and a touch of code.
+Thanks for stopping by! 🚀 Made with ❤️ and a touch of code.
