@@ -1,4 +1,4 @@
-# Welcome to my waters of the digital ocean! 🌊
+# Welcome to my watery territory of the bitwise encoded ocean! 🌊
 
 **`Digital Nomad (Bit Tweaker/Crop Guard/Time Traveller)`**
 
