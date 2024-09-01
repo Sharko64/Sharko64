@@ -70,6 +70,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
   - Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  
 - **Digital Writing**:
+  - Markdown ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   - LaTeX ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 📫 Let's Connect!
