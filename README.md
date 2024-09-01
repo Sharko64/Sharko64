@@ -34,6 +34,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
  
 ### Scripting
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AppleScript](https://img.shields.io/badge/AppleScript-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Code Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -118,7 +119,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 
 ## 💡 Fun Fact
 I once hiked a 6962m peak just to catch the sunrise. <br>
-It was worth every step and my heart rate is almost back at normal, but still no breath left!  
+It was worth every step and my heart rate is almost back at normal, but still no breath left! <br>
+![Brainfuck](https://img.shields.io/badge/Brainfuck-%23323330.svg?style=for-the-badge&logo=brainfuck&logoColor=white)
 
 > To live is to suffer, to survive is to find some meaning in the suffering.[^3]
 [^3]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)  
