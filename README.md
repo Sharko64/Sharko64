@@ -1,10 +1,13 @@
-# Welcome to my watery territory of the bitwise encoded ocean! 🌊
+# Welcome to the Tide of Tomorrow 🌊
+### where the endless horizons of the ocean meet the limitless potential of the future
 
-**`Digital Nomad (Bit Tweaker/Crop Guard/Time Traveller)`**
+**`Digital Nomad && Time Traveller`**
 
-> badges linking to social media
+I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality and beyond. My only enemies are lack of sleep and creativity congestions. There was that fingernail-biting monster story about — how were they called again? — Ahhh yes... bugs. Stay ready!
 
-I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality.
+> Whoever fights monsters should see to it that in the process he does not become a monster.
+> And if you gaze long enough into an abyss, the abyss will gaze back into you.
+> — Friedrich Nietzsche
 
 ---
 
@@ -52,6 +55,9 @@ Feel free to reach out:
 
 ## 💡 Fun Fact
 I once hiked a 6962m peak just to catch the sunrise. It was worth every step and my heart rate is almost back at normal, but still no breath left!
+
+> To live is to suffer, to survive is to find some meaning in the suffering.
+> — Friedrich Nietzsche
 
 Thanks for stopping by! 🚀
 
