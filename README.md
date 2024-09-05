@@ -1,6 +1,5 @@
 # Welcome to the Tide of Tomorrow 🌊🏄‍♂️🦈
 ### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future 🦾🕊️💻
-
 **`Digital-Nomad && Time-Traveller && In-Real-Life-Terraformer`**
 
 ![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
@@ -15,6 +14,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 [^1]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)
 
 ## 🏗️ Constructions
+**`Build your most brutal dreams.`**
+
 - **[Project Alexandria](https://github.com/Sharko64/Project-Alexandria)**: huge library of ideas out of this world.
 - **[Homegrow](https://github.com/Sharko64/Homegrow)**: the macOS package manager
 - **[Blaze-Editor](https://github.com/Sharko64/Blaze-Editor)**: Blazingly fast code editor written in rust
@@ -22,6 +23,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏔️ When I'm Not Coding
+**`Freedom is calling.`**
+
 - **Farming**: Milking goats cooped up in the mountains. 🐐
 - **Mountaineering**: Scaling peaks and conquering trails. 🧌
 - **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
@@ -32,7 +35,6 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 [^2]: Dostoevsky, F. (2003). *Crime and punishment.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/2554)
 
 ## 🍳 Skills
-
 **`Always read the docs, folks!`**
 
 ### Operating Systems
@@ -126,7 +128,6 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## 💡 Fun Facts
-
 ```brainfuck
 >+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
 >++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
@@ -161,6 +162,7 @@ Nevertheless, I can still feel the burning fire within my chest.
 > To live is to suffer, to survive is to find some meaning in the suffering.[^3]
 [^3]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)  
 
+## 👋🏼 That's all
 Thanks for stopping by! 🚀 <br>
 Made with ❤️ and a pinch of code.
 
