@@ -33,7 +33,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 
 ## 🍳 Skills
 
-Always read the docs, folks!
+`**Always read the docs, folks!**`
 
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
