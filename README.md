@@ -14,7 +14,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 [^1]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)
 
 ## 🏗️ Constructions
-**`Build your most brutal dreams.`**
+**`Build your dream.`**
 
 - **[Project Alexandria](https://github.com/Sharko64/Project-Alexandria)**: huge library of ideas out of this world.
 - **[Homegrow](https://github.com/Sharko64/Homegrow)**: the macOS package manager
