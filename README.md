@@ -1,6 +1,6 @@
 # Welcome to the Tide of Tomorrow 🌊🏄‍♂️🦈
 ### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future 🦾🕊️💻
-**`Digital-Nomad && Time-Traveller && In-Real-Life-Terraformer`**
+**`Digital-Nomad && Time-Traveller && Real-Life-Terraformer && Rock-Crawler && Book-Trojan`**
 
 ![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
 
