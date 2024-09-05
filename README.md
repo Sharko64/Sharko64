@@ -25,6 +25,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 - **Farming**: Milking goats cooped up in the mountains. 🐐
 - **Mountaineering**: Scaling peaks and conquering trails. 🧌
 - **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
+- **Philosophy**: Glinding beyond the horizon of ideas. 💡
+- **Writing**: Leaving a trail by telling a story. ✍🏼
 
 > Your worst sin is that you have destroyed and betrayed yourself for nothing.[^2]
 [^2]: Dostoevsky, F. (2003). *Crime and punishment.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/2554)
