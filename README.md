@@ -5,9 +5,10 @@
 
 ![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
 
-**`Rust: Love that never gets rusty 🦀`**
+### Rustacean
+**`Love that never gets rusty 🦀`**
 
-I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality and beyond. My only enemies are lack of sleep and creativity congestions. There was that fingernail-biting monster story about — how were they called again? — Ahhh yes... bugs. Stay ready!
+I'm a tech enthusiast who loves diving into code and solving complex problems. From building sleek web apps to crafting efficient algorithms, I enjoy the thrill of turning ideas into reality and beyond. My biggest nemeses are lack of sleep, creativity congestions and... ever heard of that fingernail-biting story about — how were they called again? — Ahhh yeah... bugs. Stay ready!
 
 > Whoever fights monsters should see to it that in the process he does not become a monster.
 > And if you gaze long enough into an abyss, the abyss will gaze back into you.[^1]
