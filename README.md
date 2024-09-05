@@ -126,9 +126,6 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## 💡 Fun Fact
-Once upon a time, I hiked a 6962m peak just to catch the sunrise. <br>
-It was worth each and every step. <br>
-Nevertheless, I can still feel the burning fire within my chest.
 
 ```brainfuck
 >+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
@@ -156,6 +153,10 @@ Nevertheless, I can still feel the burning fire within my chest.
 >+++++++++++++++++++++++++++++++++.
 >++++++++++.
 ```
+
+Once upon a time, I hiked a 6962m peak just to catch the sunrise. <br>
+It was worth each and every step. <br>
+Nevertheless, I can still feel the burning fire within my chest.
 
 > To live is to suffer, to survive is to find some meaning in the suffering.[^3]
 [^3]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)  
