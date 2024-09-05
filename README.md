@@ -32,6 +32,9 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 [^2]: Dostoevsky, F. (2003). *Crime and punishment.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/2554)
 
 ## 🍳 Skills
+
+Always read the docs, folks!
+
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
