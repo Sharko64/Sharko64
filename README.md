@@ -19,7 +19,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 - **[Homegrow](https://github.com/Sharko64/Homegrow)**: the macOS package manager
 - **[Blaze-Editor](https://github.com/Sharko64/Blaze-Editor)**: Blazingly fast code editor written in rust
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏔️ When I'm Not Coding
 - **Farming**: Milking goats cooped up in the mountains. 🐐
@@ -125,7 +125,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-## 💡 Fun Fact
+## 💡 Fun Facts
 
 ```brainfuck
 >+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
