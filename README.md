@@ -13,6 +13,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 > And if you gaze long enough into an abyss, the abyss will gaze back into you.[^1]
 [^1]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)
 
+---
+
 ## 🏗️ Constructions
 **`Build your dream.`**
 
@@ -21,6 +23,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 - **[Blaze-Editor](https://github.com/Sharko64/Blaze-Editor)**: Blazingly fast code editor written in rust
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🏔️ When I'm Not Coding
 **`Freedom is calling.`**
@@ -33,6 +37,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 
 > Your worst sin is that you have destroyed and betrayed yourself for nothing.[^2]
 [^2]: Dostoevsky, F. (2003). *Crime and punishment.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/2554)
+
+---
 
 ## 🍳 Skills
 **`Always read the docs, folks!`**
@@ -127,6 +133,8 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
+---
+
 ## 💡 Fun Facts
 ```brainfuck
 >+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
@@ -165,5 +173,3 @@ Nevertheless, I can still feel the burning fire within my chest.
 ## 👋🏼 That's all
 Thanks for stopping by! 🚀 <br>
 Made with ❤️ and a pinch of code.
-
----
