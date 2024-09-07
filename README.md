@@ -170,6 +170,8 @@ Nevertheless, I can still feel the burning fire within my chest.
 > To live is to suffer, to survive is to find some meaning in the suffering.[^3]
 [^3]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)  
 
+---
+
 ## 👋🏼 That's all
 Thanks for stopping by! 🚀 <br>
 Made with ❤️ and a pinch of code.
