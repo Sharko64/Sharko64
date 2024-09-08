@@ -19,7 +19,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 **`Build your dream.`**
 
 - **[Project Alexandria](https://github.com/Sharko64/Project-Alexandria)**: huge library of ideas out of this world.
-- **[Homegrow](https://github.com/Sharko64/Homegrow)**: the macOS package manager
+- **[Bonsai](https://github.com/Sharko64/Bonsai)**: the macOS package manager
 - **[Blaze-Editor](https://github.com/Sharko64/Blaze-Editor)**: Blazingly fast code editor written in rust
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
