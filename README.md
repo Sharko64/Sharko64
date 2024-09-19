@@ -30,7 +30,7 @@ I'm a tech enthusiast who loves diving into code and solving complex problems. F
 **`Freedom is calling.`**
 
 - **Farming**: Milking goats cooped up in the mountains. 🐐
-- **Mountaineering**: Scaling peaks and conquering trails. 🧌
+- **Travelling**: Scaling peaks and conquering trails. 🧌
 - **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
 - **Philosophy**: Glinding beyond the horizon of ideas. 💡
 - **Writing**: Leaving a trail by telling a story. ✍🏼
