@@ -1,4 +1,4 @@
-# Welcome to the Tide of Tomorrow 🌊🏄‍♂️🦈
+# The Tide of Tomorrow 🌊🏄‍♂️🦈
 ### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future 🦾🕊️💻
 **`Love that never gets rusty 🦀`**
 
