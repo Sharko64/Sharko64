@@ -62,9 +62,7 @@ I'm a rustacean positive tech enthusiast who loves diving into code and solving 
 ### Data and Config Serilization
 ![YAML](https://img.shields.io/badge/-YAML-cbcbcb?logo=yaml&style=flat)
 ![TOML](https://img.shields.io/badge/-TOML-grey?style=flat)
-![ENV](https://img.shields.io/badge/-ENV-green?style=flat)
 ![JSON](https://img.shields.io/badge/-JSON-black?logo=json&style=flat)
-![CSV](https://img.shields.io/badge/-CSV-blue?style=flat)
 
 ### UI/UX
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,6 +74,7 @@ I'm a rustacean positive tech enthusiast who loves diving into code and solving 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Database Management
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
