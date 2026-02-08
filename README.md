@@ -121,8 +121,7 @@ Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 >++++++++++.
 ```
 
-I once hiked a 6962m peak just to catch the sunrise. 🌄 <br>
-It was worth every step, and I still carry that fire within me. 🔥
+I once hiked a 6962m peak just to catch the sunrise. 🌄 Worth every step, and I still carry that fire within me. 🔥
 
 > To live is to suffer, to survive is to find some meaning in the suffering.[^3]
 [^3]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)  
@@ -133,7 +132,10 @@ It was worth every step, and I still carry that fire within me. 🔥
 Thanks for stopping by!
 
 I’m always open to new challenges and collaborations. Feel free to connect with me. <br>
-Made with ❤️ and a pinch of code.
+
+Made with ❤️ 
+
+...and a pinch of code.
 
 ---
 
