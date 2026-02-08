@@ -1,5 +1,5 @@
-# The Tide of Tomorrow 🌊🏄‍♂️🦈
-### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future 🦾🕊️💻
+# 🌊 The Tide of Tomorrow 🦈
+### Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future
 **`Love that never gets rusty 🦀`**
 
 ![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
