@@ -16,7 +16,7 @@ I'm a rustacean positive tech enthusiast who loves diving into code and solving 
 ---
 
 ## 🏗️ Constructions
-**`Build your dream.`**
+**`Build your dreams.`**
 
 Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 
@@ -25,7 +25,7 @@ Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 ---
 
 ## 🍳 Skills
-**`Always read the docs, folks!`**
+**`Don't forget to read the docs, folks!`**
 
 ### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -92,7 +92,7 @@ Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 ---
 
 ## 💡 Fun Facts
-**`Blockchain-Nomad && Time-Traveller && Real-Life-Terraformer && Rock-Crawler && Book-Trojan`**
+**`Time-Traveller && Real-Life-Terraformer`**
 
 ```brainfuck
 >+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
@@ -130,7 +130,8 @@ It was worth every step, and I still carry that fire within me. 🔥
 ---
 
 ## 👋🏼 That's all
-Thanks for stopping by! <br>
+Thanks for stopping by!
+
 I’m always open to new challenges and collaborations. Feel free to connect with me. <br>
 Made with ❤️ and a pinch of code.
 
