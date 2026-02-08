@@ -15,7 +15,7 @@ I'm a rustacean positive tech enthusiast who loves diving into code and solving 
 ## 🏗️ Constructions
 **`Build your dream.`**
 
-Find out more on: sharko64.github.io
+Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
