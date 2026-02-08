@@ -134,3 +134,7 @@ It was worth every step, and I still carry that fire within me. 🔥
 Thanks for stopping by! <br>
 I’m always open to new challenges and collaborations. Feel free to connect with me. <br>
 Made with ❤️ and a pinch of code.
+
+---
+
+## Bibliography
