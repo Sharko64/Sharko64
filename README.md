@@ -1,13 +1,14 @@
 # 🌊 The Tide of Tomorrow 🦈
 
-> [!NOTE]
+> [!WARNING]
 > Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future
 
 **`Love that never gets rusty 🦀`**
 
-![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-My biggest nemeses are lack of sleep, creativity congestions and... ever heard of that fingernail-biting story about — how were they called again? — Ahhh yeah... bugs. Stay repellently ready!
+> [!CAUTION]
+> My biggest nemeses are lack of sleep, creativity congestions and... ever heard of that fingernail-biting story about — how were they called again? — Ahhh yeah... bugs. Stay repellently ready!
 
 > Whoever fights monsters should see to it that in the process he does not become a monster.
 > And if you gaze long enough into an abyss, the abyss will gaze back into you.[^1]
@@ -20,7 +21,7 @@ My biggest nemeses are lack of sleep, creativity congestions and... ever heard o
 
 Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
 
 ---
 
