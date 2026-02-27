@@ -1,4 +1,4 @@
-# 🌊 The Tide of Tomorrow 🦈
+# 🌊 Tide of Tomorrow 🦈
 
 > [!WARNING]
 > Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future
