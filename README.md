@@ -1,9 +1,9 @@
 # 🌊 Tide of Tomorrow 🦈
 
+**`Love that never gets rusty 🦀`**
+
 > [!WARNING]
 > Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future
-
-**`Love that never gets rusty 🦀`**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,8 +20,6 @@
 **`Build your dreams.`**
 
 Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
-
-![Sharko64's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharko64&show_icons=true&theme=dark)
 
 ---
 
@@ -133,7 +131,8 @@ Worth every step, and I still carry that fire within me. 🔥
 I’m always open to new challenges and collaborations. Feel free to connect with me. <br>
 
 > [!TIP]
-> Made with ❤️ ...and a pinch of code.
+> Made with ❤️ 
+> ...and a pinch of code.
 
 ---
 
