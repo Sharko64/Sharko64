@@ -85,6 +85,11 @@ Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) <br>
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
 
+### Conventions
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) <br>
+- [Semantic Versioning](https://semver.org/) <br>
+- [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
+
 ---
 
 ## 🏔️ When I'm Not Coding
