@@ -144,10 +144,10 @@ Worth every step, and I still carry that fire within me. 🔥
 **`Thanks for stopping by!`**
 
 I’m always open to new challenges and collaborations.
-Feel free to connect with me.
 
 > [!TIP]
-> Made with 🐢❤️
+> Made with 🐢❤️ <br>
+> 
 > ...and a pinch of code.
 
 ---
