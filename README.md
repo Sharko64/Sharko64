@@ -28,9 +28,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 **`Read the docs, folks!`**
 
 ### Operating Systems
-![gnu](https://img.shields.io/badge/gnu-%23323330.svg?style=for-the-badge&logo=gnu&logoColor=black) <br>
-![Debian](https://img.shields.io/badge/Debian-%23323330.svg?style=for-the-badge&logo=debian&logoColor=white) <br>
-![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-%23323330.svg?style=for-the-badge&logo=debian&logoColor=%23D70A53)
 
 ### Code Editors
 ![Neovim](https://img.shields.io/badge/NeoVim-%23323330.svg?style=for-the-badge&logo=neovim&logoColor=%2339FF14) <br>
