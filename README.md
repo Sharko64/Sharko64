@@ -94,7 +94,7 @@
 
 - **Farming** 🐐 <br> Milking goats cooped up in the mountains. <div></div>
 - **Travelling** 🧌 <br> Scaling peaks and conquering trails. <div></div>
-- **Outdoor Adventures** 🏕️ <br> Exploring nature and embracing new challenges. <div></div>
+- **Adventures** 🏕️ <br> Exploring nature and embracing new challenges. <div></div>
 - **Philosophy** 💡 <br> Glinding beyond the horizon of ideas. <div></div>
 - **Writing** ✍🏼 <br> Leaving a trail by telling a story.
 
