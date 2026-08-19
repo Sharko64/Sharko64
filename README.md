@@ -37,7 +37,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 
 ### Digital Writing
 ![Markdown](https://img.shields.io/badge/markdown-%23323330.svg?style=for-the-badge&logo=markdown&logoColor=blue) <br>
-![Typst](https://img.shields.io/badge/typst-%23323330.svg?style=for-the-badge&logo=typst&logoColor=white)
+![Typst](https://img.shields.io/badge/typst-%23323330.svg?style=for-the-badge&logo=typst&logoColor=cyan)
 
 ### Turing-complete Languages
 ![Bash](https://img.shields.io/badge/shell_script-%23323330.svg?style=for-the-badge&logo=gnu-bash&logoColor=green) <br>
