@@ -1,4 +1,4 @@
-# 🌊 Tide of Tomorrow 🦈
+# 🌊 Tide 🏄 <br> of <br> 🏝️ Tomorrow 🦈
 
 **`Love Rust 🦀`**
 
