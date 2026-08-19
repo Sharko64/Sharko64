@@ -52,7 +52,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 
 ### UI/UX
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) <br>
-![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
+![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=css&logoColor=%231572B6) <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
