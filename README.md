@@ -78,10 +78,14 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%23323330.svg?style=for-the-badge&logo=deepseek&logoColor=%235786FE)
 
 ### Conventions
+- [GNU Coding Standards](https://www.gnu.org/prep/standards/) <br>
+- [Linux Foundation](https://www.linuxfoundation.org/) <br>
+- [UNiX Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) <br>
+- [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/) <br>
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) <br>
 - [Semantic Versioning](https://semver.org/) <br>
-- [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
-
+- [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) <br>
+- [MIT License](https://opensource.org/license/mit/) <br>
 ---
 
 ## 🏔️ When I'm Not Coding
