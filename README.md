@@ -28,9 +28,9 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 **`Read the docs, folks!`**
 
 ### Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) <br>
+![gnu](https://img.shields.io/badge/gnu-%23ffffff.svg?style=for-the-badge&logo=gnu&logoColor=black) <br>
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) <br>
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Code Editors
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) <br>
@@ -48,9 +48,8 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br>
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange) <br>
-![gnu](https://img.shields.io/badge/gnu-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Assembly](https://img.shields.io/badge/assembly-%23FFFFFF.svg?style=for-the-badge&logo=assemblyscript&logoColor=black)
+![Assembly](https://img.shields.io/badge/assembly-%230B1F33.svg?style=for-the-badge&logo=assemblyscript&logoColor=%2300D9FF)
 
 ### UI/UX
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
