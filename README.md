@@ -40,7 +40,7 @@
 ![Typst](https://img.shields.io/badge/typst-%23323330.svg?style=for-the-badge&logo=typst&logoColor=cyan)
 
 ### Turing-complete Languages
-![Bash](https://img.shields.io/badge/shell_script-%23323330.svg?style=for-the-badge&logo=gnu-bash&logoColor=green) <br>
+![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=for-the-badge&logo=gnu-bash&logoColor=%234EAA25) <br> <br>
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 ![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=orange) <br>
 ![Lua](https://img.shields.io/badge/lua-%23323330.svg?style=for-the-badge&logo=lua&logoColor=%232C2D72) <br>
