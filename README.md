@@ -57,24 +57,24 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 
 ### Database Management
-![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=white) <br>
-![Duckdb](https://img.shields.io/badge/duckdb-%23323330.svg?style=for-the-badge&logo=duckdb&logoColor=black) <br>
-![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=%2307405E) <br>
+![DuckDB](https://img.shields.io/badge/duckdb-%23323330.svg?style=for-the-badge&logo=duckdb&logoColor=%23FFF000) <br>
+![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)
 
-### DevOps 
-![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white) <br>
-![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white) <br>
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%23323330.svg?style=for-the-badge&logo=githubactions&logoColor=white) <br>
+### DevOps
+![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05032) <br>
+![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF) <br>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%23323330.svg?style=for-the-badge&logo=githubactions&logoColor=%232088FF) <br>
 ![GitLab](https://img.shields.io/badge/GitLab-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26) <br>
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26) <br>
-![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
+![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%232496ED) <br>
 ![Akamai](https://img.shields.io/badge/Akamai-%23323330.svg?style=for-the-badge&logo=akamai&logoColor=%2300A651) <br>
 ![Lenovo](https://img.shields.io/badge/Lenovo-%23323330.svg?style=for-the-badge&logo=lenovo&logoColor=%23E2231A)
 
 ### Artificial Intelligence
-![Ollama](https://img.shields.io/badge/ollama-%23323330.svg?style=for-the-badge&logo=ollama&logoColor=white) <br>
-![OpenAI](https://img.shields.io/badge/OpenAI-%23323330.svg?style=for-the-badge&logo=openai&logoColor=white) <br>
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%23323330.svg?style=for-the-badge&logo=deepseek&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23323330.svg?style=for-the-badge&logo=ollama&logoColor=%23FFFFFF) <br>
+![OpenAI](https://img.shields.io/badge/OpenAI-%23323330.svg?style=for-the-badge&logo=openai&logoColor=%23FFFFFF) <br>
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%23323330.svg?style=for-the-badge&logo=deepseek&logoColor=%235786FE)
 
 ### Conventions
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) <br>
