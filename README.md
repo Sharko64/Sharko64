@@ -1,4 +1,4 @@
-# 🌊 Tide 🏄 <br> of <br> 🏝️ Tomorrow 🦈
+# Sharko64 🦈
 
 **`Love Rust 🦀`**
 
@@ -147,7 +147,7 @@ I’m always open to new challenges and collaborations.
 Feel free to connect with me.
 
 > [!TIP]
-> Made with ❤️ 
+> Made with 🐢❤️
 > ...and a pinch of code.
 
 ---
