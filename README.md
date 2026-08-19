@@ -89,9 +89,9 @@
 
 - **Farming** <br> Milking goats cooped up in the mountains. 🐐
 - **Travelling** <br> Scaling peaks and conquering trails. 🧌
-- **Outdoor Adventures**: <br> Exploring nature and embracing new challenges. 🏕️
-- **Philosophy**: <br> Glinding beyond the horizon of ideas. 💡
-- **Writing**: <br> Leaving a trail by telling a story. ✍🏼
+- **Outdoor Adventures** <br> Exploring nature and embracing new challenges. 🏕️
+- **Philosophy** <br> Glinding beyond the horizon of ideas. 💡
+- **Writing** <br> Leaving a trail by telling a story. ✍🏼
 
 > Your worst sin is that you have destroyed and betrayed yourself for nothing.[^2]
 [^2]: Dostoevsky, F. (2003). *Crime and punishment.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/2554)
