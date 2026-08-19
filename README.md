@@ -92,10 +92,10 @@
 
 **`Freedom is calling.`**
 
-- **Farming** <br> Milking goats cooped up in the mountains. 🐐
-- **Travelling** <br> Scaling peaks and conquering trails. 🧌
-- **Outdoor Adventures** <br> Exploring nature and embracing new challenges. 🏕️
-- **Philosophy** <br> Glinding beyond the horizon of ideas. 💡
+- **Farming** <br> Milking goats cooped up in the mountains. 🐐 <div></div>
+- **Travelling** <br> Scaling peaks and conquering trails. 🧌 <div></div>
+- **Outdoor Adventures** <br> Exploring nature and embracing new challenges. 🏕️ <div></div>
+- **Philosophy** <br> Glinding beyond the horizon of ideas. 💡 <div></div>
 - **Writing** <br> Leaving a trail by telling a story. ✍🏼
 
 > Your worst sin is that you have destroyed and betrayed yourself for nothing.[^2]
