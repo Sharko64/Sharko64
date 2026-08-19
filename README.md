@@ -9,9 +9,9 @@
 --- 
 
 ## 💰 Funding
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=orange) <br>
-![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=Ethereum&logoColor=grey) <br>
-![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana&logoColor=purple)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-%23323330.svg?style=for-the-badge&logo=bitcoin&logoColor=orange) <br>
+![Ethereum](https://img.shields.io/badge/Ethereum-%23323330.svg?style=for-the-badge&logo=Ethereum&logoColor=grey) <br>
+![Solana](https://img.shields.io/badge/Solana-%23323330.svg?style=for-the-badge&logo=solana&logoColor=purple)
 
 ---
 
