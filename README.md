@@ -34,7 +34,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 
 ### Code Editors
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) <br>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FFFFFF.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
 
 ### Digital Writing
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=blue) <br>
