@@ -13,6 +13,10 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-%23323330.svg?style=for-the-badge&logo=Ethereum&logoColor=grey) <br>
 ![Solana](https://img.shields.io/badge/Solana-%23323330.svg?style=for-the-badge&logo=solana&logoColor=purple)
 
+<img src="https://img.shields.io/badge/Bitcoin-%23323330.svg?style=for-the-badge&logo=bitcoin&logoColor=orange" height="42">
+<img src="https://img.shields.io/badge/Ethereum-%23323330.svg?style=for-the-badge&logo=Ethereum&logoColor=white" height="42">
+<img src="https://img.shields.io/badge/Solana-%23323330.svg?style=for-the-badge&logo=solana&logoColor=white" height="42">
+
 ---
 
 ## 🏗️ Constructions
