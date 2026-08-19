@@ -50,6 +50,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange) <br>
 ![gnu](https://img.shields.io/badge/gnu-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Assembly](https://img.shields.io/badge/assembly-%23FFFFFF.svg?style=for-the-badge&logo=assemblyscript&logoColor=black)
 
 ### UI/UX
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
