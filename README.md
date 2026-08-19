@@ -28,7 +28,8 @@
 **`Read the docs, folks!`**
 
 ### Operating Systems
-![Debian](https://img.shields.io/badge/Debian-%23323330.svg?style=for-the-badge&logo=debian&logoColor=%23D70A53)
+![Debian](https://img.shields.io/badge/Debian-%23323330.svg?style=for-the-badge&logo=debian&logoColor=%23D70A53) <br>
+![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624)
 
 ### Code Editors
 ![Nano](https://img.shields.io/badge/Nano-%23323330.svg?style=for-the-badge&logo=gnu&logoColor=%23FF0000) <br>
