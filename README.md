@@ -67,12 +67,11 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) <br>
+![GitLab](https://img.shields.io/badge/GitLab-%23FFFFFF.svg?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26) <br>
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26) <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <br>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) <br>
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) <br>
-![Linode](https://img.shields.io/badge/Linode-%23FFFFFF.svg?style=for-the-badge&logo=linode&logoColor=%2300A95C)
-![Akamai](https://img.shields.io/badge/Akamai-%23FFFFFF.svg?style=for-the-badge&logo=akamai&logoColor=%2300A651)
+![Akamai](https://img.shields.io/badge/Akamai-%23FFFFFF.svg?style=for-the-badge&logo=akamai&logoColor=%2300A651) <br>
+![Lenovo](https://img.shields.io/badge/Lenovo-%23000000.svg?style=for-the-badge&logo=lenovo&logoColor=%23E2231A)
 
 ### Artificial Intelligence
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) <br>
