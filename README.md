@@ -88,7 +88,7 @@
 - [MIT License](https://opensource.org/license/mit/) <br>
 ---
 
-## 🏔️ When I'm Not Coding
+## 🏔️ When Ø Coding
 
 **`Freedom is calling.`**
 
