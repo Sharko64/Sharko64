@@ -27,11 +27,11 @@
 
 **`Read the docs, folks!`**
 
-### Operating Systems
+### OS
 ![Debian](https://img.shields.io/badge/Debian-%23323330.svg?style=for-the-badge&logo=debian&logoColor=%23D70A53) <br>
 ![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624)
 
-### Code Editors
+### Editors
 ![Nano](https://img.shields.io/badge/Nano-%23323330.svg?style=for-the-badge&logo=gnu&logoColor=%23FF0000) <br>
 ![Neovim](https://img.shields.io/badge/NeoVim-%23323330.svg?style=for-the-badge&logo=neovim&logoColor=%2357A143) <br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
@@ -40,7 +40,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23323330.svg?style=for-the-badge&logo=markdown&logoColor=blue) <br>
 ![Typst](https://img.shields.io/badge/typst-%23323330.svg?style=for-the-badge&logo=typst&logoColor=cyan)
 
-### Turing-complete Languages
+### Turing-complete
 ![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=for-the-badge&logo=gnu-bash&logoColor=%234EAA25) <br>
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 ![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=orange) <br>
@@ -57,7 +57,7 @@
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 
-### Database Management
+### DB Management
 ![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=%2307405E) <br>
 ![DuckDB](https://img.shields.io/badge/duckdb-%23323330.svg?style=for-the-badge&logo=duckdb&logoColor=%23FFF000) <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)
@@ -72,7 +72,7 @@
 ![Akamai](https://img.shields.io/badge/Akamai-%23323330.svg?style=for-the-badge&logo=akamai&logoColor=%2300A651) <br>
 ![Lenovo](https://img.shields.io/badge/Lenovo-%23323330.svg?style=for-the-badge&logo=lenovo&logoColor=%23E2231A)
 
-### Artificial Intelligence
+### AI
 ![Ollama](https://img.shields.io/badge/ollama-%23323330.svg?style=for-the-badge&logo=ollama&logoColor=%23FFFFFF) <br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23323330.svg?style=for-the-badge&logo=openai&logoColor=%23FFFFFF) <br>
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%23323330.svg?style=for-the-badge&logo=deepseek&logoColor=%235786FE)
