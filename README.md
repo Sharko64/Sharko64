@@ -19,7 +19,7 @@
 
 **`Build your dreams.`**
 
-More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
+**[sharko64.github.io](https://sharko64.github.io)**
 
 ---
 
@@ -87,11 +87,11 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 
 **`Freedom is calling.`**
 
-- **Farming**: Milking goats cooped up in the mountains. 🐐
-- **Travelling**: Scaling peaks and conquering trails. 🧌
-- **Outdoor Adventures**: Exploring nature and embracing new challenges. 🏕️
-- **Philosophy**: Glinding beyond the horizon of ideas. 💡
-- **Writing**: Leaving a trail by telling a story. ✍🏼
+- **Farming** <br> Milking goats cooped up in the mountains. 🐐
+- **Travelling** <br> Scaling peaks and conquering trails. 🧌
+- **Outdoor Adventures**: <br> Exploring nature and embracing new challenges. 🏕️
+- **Philosophy**: <br> Glinding beyond the horizon of ideas. 💡
+- **Writing**: <br> Leaving a trail by telling a story. ✍🏼
 
 > Your worst sin is that you have destroyed and betrayed yourself for nothing.[^2]
 [^2]: Dostoevsky, F. (2003). *Crime and punishment.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/2554)
@@ -100,7 +100,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 
 ## 💡 Fun Facts
 
-**`Time-Traveller && Real-Life-Terraformer`**
+**`Former Time Traveller`**
 
 ```brainfuck
 >+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
