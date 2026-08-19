@@ -41,12 +41,12 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 
 ### Turing-complete Languages
 ![Bash](https://img.shields.io/badge/shell_script-%23323330.svg?style=for-the-badge&logo=gnu-bash&logoColor=green) <br>
-![Lua](https://img.shields.io/badge/lua-%23323330.svg?style=for-the-badge&logo=lua&logoColor=white) <br>
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
-![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=blue) <br>
-![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white) <br>
-![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=grey) <br>
 ![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=orange) <br>
+![Lua](https://img.shields.io/badge/lua-%23323330.svg?style=for-the-badge&logo=lua&logoColor=white) <br>
+![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=blue) <br>
+![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=grey) <br>
+![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white) <br>
 ![Assembly](https://img.shields.io/badge/assembly-%23323330.svg?style=for-the-badge&logo=assemblyscript&logoColor=%2300D9FF)
 
 ### UI/UX
