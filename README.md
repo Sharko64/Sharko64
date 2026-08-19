@@ -47,6 +47,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=blue) <br>
 ![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=grey) <br>
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23339933) <br>
+![Bun](https://img.shields.io/badge/bun-%23323330.svg?style=for-the-badge&logo=bun&logoColor=%23F9F1E1) <br>
 ![Assembly](https://img.shields.io/badge/assembly-%23323330.svg?style=for-the-badge&logo=assemblyscript&logoColor=%2300D9FF)
 
 ### UI/UX
