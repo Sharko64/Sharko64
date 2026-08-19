@@ -1,14 +1,6 @@
 # 🌊 Tide of Tomorrow 🦈
 
-**`Love that never gets rusty 🦀`**
-
-> [!WARNING]
-> Where the Endless Horizons of the Ocean Meet the Limitless Potential of the Future
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharko64&size_weight=0.5&count_weight=0.5&langs_count=10&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-> [!CAUTION]
-> My biggest nemeses are lack of sleep, creativity congestions and... ever heard of that fingernail-biting story about — how were they called again? — Ahhh yeah... bugs. Stay repellently ready!
+**`Love Rust 🦀`**
 
 > Whoever fights monsters should see to it that in the process he does not become a monster.
 > And if you gaze long enough into an abyss, the abyss will gaze back into you.[^1]
@@ -24,14 +16,16 @@
 ---
 
 ## 🏗️ Constructions
+
 **`Build your dreams.`**
 
-Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
+More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 
 ---
 
 ## 🍳 Skills
-**`Don't forget to read the docs, folks!`**
+
+**`Read the docs, folks!`**
 
 ### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) <br>
@@ -93,6 +87,7 @@ Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 ---
 
 ## 🏔️ When I'm Not Coding
+
 **`Freedom is calling.`**
 
 - **Farming**: Milking goats cooped up in the mountains. 🐐
@@ -107,6 +102,7 @@ Find out more on: **[sharko64.github.io](https://sharko64.github.io)**
 ---
 
 ## 💡 Fun Facts
+
 **`Time-Traveller && Real-Life-Terraformer`**
 
 ```brainfuck
@@ -145,9 +141,11 @@ Worth every step, and I still carry that fire within me. 🔥
 ---
 
 ## 👋🏼 That's all
+
 **`Thanks for stopping by!`**
 
-I’m always open to new challenges and collaborations. Feel free to connect with me. <br>
+I’m always open to new challenges and collaborations.
+Feel free to connect with me.
 
 > [!TIP]
 > Made with ❤️ 
