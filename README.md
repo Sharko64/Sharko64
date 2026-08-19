@@ -31,9 +31,9 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![Debian](https://img.shields.io/badge/Debian-%23323330.svg?style=for-the-badge&logo=debian&logoColor=%23D70A53)
 
 ### Code Editors
-![Neovim](https://img.shields.io/badge/NeoVim-%23323330.svg?style=for-the-badge&logo=neovim&logoColor=%2339FF14) <br>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=orange) <br>
-![Nano](https://img.shields.io/badge/Nano-%23323330.svg?style=for-the-badge&logo=gnu&logoColor=%23FF0000)
+![Nano](https://img.shields.io/badge/Nano-%23323330.svg?style=for-the-badge&logo=gnu&logoColor=%23FF0000) <br>
+![Neovim](https://img.shields.io/badge/NeoVim-%23323330.svg?style=for-the-badge&logo=neovim&logoColor=%2357A143) <br>
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23323330.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
 
 ### Digital Writing
 ![Markdown](https://img.shields.io/badge/markdown-%23323330.svg?style=for-the-badge&logo=markdown&logoColor=blue) <br>
