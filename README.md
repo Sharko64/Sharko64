@@ -72,6 +72,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) <br>
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) <br>
 ![Linode](https://img.shields.io/badge/Linode-%23FFFFFF.svg?style=for-the-badge&logo=linode&logoColor=%2300A95C)
+![Akamai](https://img.shields.io/badge/Akamai-%23FFFFFF.svg?style=for-the-badge&logo=akamai&logoColor=%2300A651)
 
 ### Artificial Intelligence
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) <br>
