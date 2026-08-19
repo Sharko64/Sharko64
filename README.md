@@ -33,7 +33,7 @@ More on: <br> **[sharko64.github.io](https://sharko64.github.io)**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Code Editors
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) <br>
+![Neovim](https://img.shields.io/badge/NeoVim-%23007ACC.svg?style=for-the-badge&logo=neovim&logoColor=%2339FF14) <br>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FFFFFF.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
 
 ### Digital Writing
