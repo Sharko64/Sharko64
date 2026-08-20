@@ -111,9 +111,6 @@
 ++++++++[>++++++++++>+++++++++++>++++<<<-]>+++.+.-----.+.>>.<-.<---------------.>----.+.<++++++++.+++++.-------.>>.<+++++.----------.++++++.---.>.<++.<++.++++.--------.>>+.
 ```
 
-I once hiked a 6962m peak just to catch the sunrise. 🌄 <br>
-Worth every step, and I still carry that fire within me. 🔥
-
 > To live is to suffer, to survive is to find some meaning in the suffering.[^3]
 [^3]: Nietzsche, F. (2003). *Beyond good and evil: Prelude to a philosophy of the future.* Project Gutenberg. (Original work published 1886). Available at [Project Gutenberg](https://www.gutenberg.org/ebooks/4363)  
 
